@@ -2,6 +2,10 @@
 
 ### Languages
 
+![Html](https://img.shields.io/badge/-Html-000?&logo=Html)
+![Css](https://img.shields.io/badge/-Css-000?&logo=Css)
+![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
+![Css](https://img.shields.io/badge/-Css-000?&logo=Css)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
