@@ -15,6 +15,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
+![Symfony.js](https://img.shields.io/badge/-Symfony.js-000?&logo=Symphony)
 
 
 ### Full Stack Projects
